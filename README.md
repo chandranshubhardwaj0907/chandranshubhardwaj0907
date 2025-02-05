@@ -1,6 +1,6 @@
 ![logo](https://github.com/chandranshubhardwaj0907/chandranshubhardwaj0907/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Chandranshu Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranshubhardwaj0907&label=Profile%20views&color=0e75b6&style=flat" alt="chandranshubhardwaj0907" /> </p>
 
